@@ -16,6 +16,6 @@ Repositories for porject 2,3,4 and 5 are yet to be created but below is the nami
 
 Project 1: https://github.com/GeekNipho/CMPG-323-Overview-34225692 <br />
 Project 2: https://github.com/GeekNipho/CMPG-323-Project-2---34225692 <br />
-Project 3: https://github.com/GeekNipho/CMPG-323-Project-3-34225692 <br />
+Project 3: https://github.com/GeekNipho/CMPG-323-New-Project-3-34225692 <br />
 Project 4: CMPG-323-Project-4-34225692 <br />
 Project 5: CMPG-323-Project-4-34225692
